@@ -1,0 +1,9 @@
+<?php
+/* Copiar como configuracion_pagos.php. Nunca subir este archivo con claves reales. */
+return [
+    'mercado_pago_access_token' => '',
+    'mercado_pago_webhook_secret' => '',
+    /* URL de checkout hospedado que entregue AstroPay para tu cuenta comercial. */
+    'astropay_checkout_url' => '',
+    'astropay_api_key' => '',
+];

@@ -1,0 +1,19 @@
+APP_URL=http://localhost/tesis%20pechuga
+
+DB_HOST=localhost
+DB_PORT=3306
+DB_DATABASE=digital_care
+DB_USERNAME=root
+DB_PASSWORD=
+
+SMTP_HOST=smtp.example.com
+SMTP_PORT=587
+SMTP_SECURE=tls
+SMTP_USERNAME=usuario@example.com
+SMTP_PASSWORD=secret
+SMTP_FROM=no-reply@example.com
+SMTP_FROM_NAME=Digital Care
+
+GOOGLE_CLIENT_ID=tu-client-id.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=tu-client-secret
+GOOGLE_REDIRECT_URI=http://localhost/tesis%20pechuga/google_callback.php
